@@ -1,7 +1,7 @@
 juliaLang_Cross_Product
 ==============================
 
-This program computes the cross product of n-column vectors in a (n)x(n-1) matrix using the Gram-Schmidt process. The result is a nth dimensional cross product.
+This program computes the cross product of n-column vectors in a (n)x(n-1) matrix using the definition of determinants. The result is a nth dimensional vector.
 
 
 How to run this program?
