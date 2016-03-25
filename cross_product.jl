@@ -1,4 +1,4 @@
-/**
+#=**
 * Find the nth-dimensional vector solution to the cross product of a n by (n-1) matrix julia function
 * Qijia (Michael) Jin
 * @version 1.0
@@ -15,7 +15,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
-*/
+*=#
 function cross_product (x)
 	z = zeros(1, size(x)[1])
 	for zi = 1:size(x)[1]
